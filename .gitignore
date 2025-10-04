@@ -8,6 +8,8 @@ tools/*
 *.swp
 *.obj
 imgui.ini
+bin/
+bin-int/
 test/tracy_test
 test/tracy_test.exe
 */build/unix/*-*
